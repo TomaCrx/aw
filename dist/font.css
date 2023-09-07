@@ -1,0 +1,35 @@
+@font-face{
+	font-family: "Junicode-Regular";
+	src: url("../font/JunicodeTwoBeta-Regular.otf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face{
+	font-family: "Junicode-Regular";
+	src: url("../font/JunicodeTwoBeta-Italic.otf");
+	font-style: italic;
+	font-weight: normal;
+}
+
+@font-face{
+	font-family: "Junicode-Condensed";
+	src: url("../font/JunicodeTwoBeta-Condensed.otf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+@font-face{
+	font-family: "Junicode-Expanded";
+	src: url("../font/JunicodeTwoBeta-Expanded.otf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face{
+	font-family: "Junicode-Expanded";
+	src: url("../font/JunicodeTwoBeta-ExpandedItalic.otf");
+	font-style: italic;
+	font-weight: normal;
+}
